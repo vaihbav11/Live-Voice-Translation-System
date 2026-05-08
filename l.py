@@ -27,7 +27,7 @@ st.set_page_config(
 # ════════════════════════════════════════════════════════════════════════════
 # TITLE & INFO
 # ════════════════════════════════════════════════════════════════════════════
-st.title("🌍 Live Voice Translation System")
+st.title("🌍 Live Voice Translation System") 
 st.markdown("""
 **Speak in English → Get translated to any language → Hear it back as speech**
 
