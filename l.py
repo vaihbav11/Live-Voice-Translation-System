@@ -13,7 +13,6 @@ from transformers import pipeline
 from gtts import gTTS
 import tempfile
 import time
-
 # ════════════════════════════════════════════════════════════════════════════
 # PAGE CONFIG
 # ════════════════════════════════════════════════════════════════════════════
