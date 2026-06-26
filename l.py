@@ -1,4 +1,4 @@
-import subprocess
+ import subprocess
 subprocess.run(["pip", "install", "openai-whisper", "transformers==4.35.0", 
                 "gTTS", "sounddevice", "scipy", "streamlit", "pyaudio"], 
                capture_output=True)
