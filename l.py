@@ -4,10 +4,10 @@ subprocess.run(["pip", "install", "openai-whisper", "transformers==4.35.0",
                capture_output=True)
 
 import streamlit as st
-import whisper   
-import numpy as np  
-import sounddevice as sd 
-from scipy.io import wavfile   
+import whisper
+import numpy as np
+import sounddevice as sd
+from scipy.io import wavfile
 import os
 from transformers import pipeline  
 from gtts import gTTS
