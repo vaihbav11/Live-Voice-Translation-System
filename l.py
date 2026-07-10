@@ -9,7 +9,7 @@ import numpy as np
 import sounddevice as sd 
 from scipy.io import wavfile   
 import os
-from transformers import pipeline 
+from transformers import pipeline  
 from gtts import gTTS
 import tempfile 
 import time 
